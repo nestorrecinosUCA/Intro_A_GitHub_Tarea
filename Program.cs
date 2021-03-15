@@ -7,7 +7,8 @@ namespace IntroGit
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.WriteLine("This project whas created by Néstor and Irvin");
+            Console.WriteLine("This project was created by Néstor and Irvin");
+            Console.WriteLine("Program finished");
         }
     }
 }
