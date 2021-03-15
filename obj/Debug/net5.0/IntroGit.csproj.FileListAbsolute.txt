@@ -1,0 +1,16 @@
+C:\Users\NéstorRecinos\Desktop\UCA - Material\2021\2021-CICLO-01\03-PROGRAMACIÓN ORIENTADA A OBJETOS\META_1\TareaGithub\bin\Debug\net5.0\IntroGit.exe
+C:\Users\NéstorRecinos\Desktop\UCA - Material\2021\2021-CICLO-01\03-PROGRAMACIÓN ORIENTADA A OBJETOS\META_1\TareaGithub\bin\Debug\net5.0\IntroGit.deps.json
+C:\Users\NéstorRecinos\Desktop\UCA - Material\2021\2021-CICLO-01\03-PROGRAMACIÓN ORIENTADA A OBJETOS\META_1\TareaGithub\bin\Debug\net5.0\IntroGit.runtimeconfig.json
+C:\Users\NéstorRecinos\Desktop\UCA - Material\2021\2021-CICLO-01\03-PROGRAMACIÓN ORIENTADA A OBJETOS\META_1\TareaGithub\bin\Debug\net5.0\IntroGit.runtimeconfig.dev.json
+C:\Users\NéstorRecinos\Desktop\UCA - Material\2021\2021-CICLO-01\03-PROGRAMACIÓN ORIENTADA A OBJETOS\META_1\TareaGithub\bin\Debug\net5.0\IntroGit.dll
+C:\Users\NéstorRecinos\Desktop\UCA - Material\2021\2021-CICLO-01\03-PROGRAMACIÓN ORIENTADA A OBJETOS\META_1\TareaGithub\bin\Debug\net5.0\ref\IntroGit.dll
+C:\Users\NéstorRecinos\Desktop\UCA - Material\2021\2021-CICLO-01\03-PROGRAMACIÓN ORIENTADA A OBJETOS\META_1\TareaGithub\bin\Debug\net5.0\IntroGit.pdb
+C:\Users\NéstorRecinos\Desktop\UCA - Material\2021\2021-CICLO-01\03-PROGRAMACIÓN ORIENTADA A OBJETOS\META_1\TareaGithub\obj\Debug\net5.0\IntroGit.csprojAssemblyReference.cache
+C:\Users\NéstorRecinos\Desktop\UCA - Material\2021\2021-CICLO-01\03-PROGRAMACIÓN ORIENTADA A OBJETOS\META_1\TareaGithub\obj\Debug\net5.0\IntroGit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NéstorRecinos\Desktop\UCA - Material\2021\2021-CICLO-01\03-PROGRAMACIÓN ORIENTADA A OBJETOS\META_1\TareaGithub\obj\Debug\net5.0\IntroGit.AssemblyInfoInputs.cache
+C:\Users\NéstorRecinos\Desktop\UCA - Material\2021\2021-CICLO-01\03-PROGRAMACIÓN ORIENTADA A OBJETOS\META_1\TareaGithub\obj\Debug\net5.0\IntroGit.AssemblyInfo.cs
+C:\Users\NéstorRecinos\Desktop\UCA - Material\2021\2021-CICLO-01\03-PROGRAMACIÓN ORIENTADA A OBJETOS\META_1\TareaGithub\obj\Debug\net5.0\IntroGit.csproj.CoreCompileInputs.cache
+C:\Users\NéstorRecinos\Desktop\UCA - Material\2021\2021-CICLO-01\03-PROGRAMACIÓN ORIENTADA A OBJETOS\META_1\TareaGithub\obj\Debug\net5.0\IntroGit.dll
+C:\Users\NéstorRecinos\Desktop\UCA - Material\2021\2021-CICLO-01\03-PROGRAMACIÓN ORIENTADA A OBJETOS\META_1\TareaGithub\obj\Debug\net5.0\ref\IntroGit.dll
+C:\Users\NéstorRecinos\Desktop\UCA - Material\2021\2021-CICLO-01\03-PROGRAMACIÓN ORIENTADA A OBJETOS\META_1\TareaGithub\obj\Debug\net5.0\IntroGit.pdb
+C:\Users\NéstorRecinos\Desktop\UCA - Material\2021\2021-CICLO-01\03-PROGRAMACIÓN ORIENTADA A OBJETOS\META_1\TareaGithub\obj\Debug\net5.0\IntroGit.genruntimeconfig.cache

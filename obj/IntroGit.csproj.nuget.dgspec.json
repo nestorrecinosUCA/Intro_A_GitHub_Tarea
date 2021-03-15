@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hp\\Desktop\\Intro github\\IntroGit\\IntroGit.csproj": {}
+    "C:\\Users\\NéstorRecinos\\Desktop\\UCA - Material\\2021\\2021-CICLO-01\\03-PROGRAMACIÓN ORIENTADA A OBJETOS\\META_1\\TareaGithub\\IntroGit.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hp\\Desktop\\Intro github\\IntroGit\\IntroGit.csproj": {
+    "C:\\Users\\NéstorRecinos\\Desktop\\UCA - Material\\2021\\2021-CICLO-01\\03-PROGRAMACIÓN ORIENTADA A OBJETOS\\META_1\\TareaGithub\\IntroGit.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hp\\Desktop\\Intro github\\IntroGit\\IntroGit.csproj",
+        "projectUniqueName": "C:\\Users\\NéstorRecinos\\Desktop\\UCA - Material\\2021\\2021-CICLO-01\\03-PROGRAMACIÓN ORIENTADA A OBJETOS\\META_1\\TareaGithub\\IntroGit.csproj",
         "projectName": "IntroGit",
-        "projectPath": "C:\\Users\\hp\\Desktop\\Intro github\\IntroGit\\IntroGit.csproj",
-        "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hp\\Desktop\\Intro github\\IntroGit\\obj\\",
+        "projectPath": "C:\\Users\\NéstorRecinos\\Desktop\\UCA - Material\\2021\\2021-CICLO-01\\03-PROGRAMACIÓN ORIENTADA A OBJETOS\\META_1\\TareaGithub\\IntroGit.csproj",
+        "packagesPath": "C:\\Users\\NéstorRecinos\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\NéstorRecinos\\Desktop\\UCA - Material\\2021\\2021-CICLO-01\\03-PROGRAMACIÓN ORIENTADA A OBJETOS\\META_1\\TareaGithub\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\NéstorRecinos\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
